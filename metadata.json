@@ -1,0 +1,6 @@
+{
+  "name": "GameForge Studio - Criador de Jogos & Compilador APK",
+  "description": "Crie, personalize e jogue jogos arcade para celular e web, com exportador completo para APK Android e PWA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
